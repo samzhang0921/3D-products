@@ -1,28 +1,46 @@
-.main {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  padding: 6rem;
-  min-height: 100vh;
+.header {
+ width: 100%;
+ height: auto;
+ object-fit: contain;
 }
 
-.description {
-  display: inherit;
-  justify-content: inherit;
-  align-items: inherit;
-  font-size: 0.85rem;
-  max-width: var(--max-width);
-  width: 100%;
+.detail {
+ width: 100%;
+ height: auto;
+ object-fit: contain;
+}
+
+.main {
+ background-color: white;
+ display: flex;
+ height: 1500px;
+}
+
+
+.left {
+  width: 55%;
+  margin-top: 50px;
+  padding: 25px;
   z-index: 2;
   font-family: var(--font-mono);
 }
+
+.right {
+  background-color: white;
+  padding: 20px;
+  
+}
+
 
 .description a {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 0.5rem;
+}
+
+.canvas {
+  height: 600px !important;
 }
 
 .description p {

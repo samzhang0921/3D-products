@@ -1,0 +1,11 @@
+Model Information:
+* title:	Air Force1
+* source:	https://sketchfab.com/3d-models/air-force1-9497c5d927b04f2281e86a0777784177
+* author:	kiria_d (https://sketchfab.com/kirilldrac78)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Air Force1" (https://sketchfab.com/3d-models/air-force1-9497c5d927b04f2281e86a0777784177) by kiria_d (https://sketchfab.com/kirilldrac78) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
